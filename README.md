@@ -16,11 +16,10 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm a third-year Computer Science student passionate about building useful systems
+- 🎓 I'm a final-year Computer Science student 
 - 🌱 Currently exploring **Full Stack Development** and **DSA**
 - 🔍 Always curious to learn and solve real-world problems
-- 💬 Ask me about **Web Dev, Java, MySQL, PHP, or problem-solving**
-
+  
 ---
 
 ### 🛠 Tech Stack
@@ -28,6 +27,6 @@
 ```bash
 Languages     :  Java, PHP, JavaScript, C
 Databases     :  MySQL
-Web           :  HTML, CSS, Bootstrap, Tailwind, AJAX
-Backend       :  PHP, Node.js basics
+Web           :  HTML, CSS, AJAX
+Backend       :  PHP, (React.js ,Node js basics)
 Tools/Other   :  Git, XAMPP, VS Code
