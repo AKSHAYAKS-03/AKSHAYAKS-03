@@ -1,43 +1,33 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Akshaya K S</h1>
-<h3 align="center">A passionate tech enthusiast and aspiring software developer</h3>
-
----
-
-🌱 **Currently Learning**  
-- Full Stack Web Development  
-- Android App Development  
-- Problem Solving (LeetCode & Codeforces)  
-
-🔭 **Recent Projects**  
-- 🎓 **Campus Directory** — A student management portal with login system, profile updates, and data validations  
-  ➤ [View on GitHub](https://github.com/AKSHAYAKS-03/CampusDirectory)  
-  ➤ [Live Demo](https://your-infinityfree-hosting-link/) (if available)
-
-💡 **Key Features**  
-- Student Login & Profile Management  
-- Admin Panel for Filtering, Deleting, Viewing  
-- Real-time Field Validation & JSON Data Storage  
-- Printable Reports  
-
-📫 **Contact Me**  
-- Email: [akshayasenthilkumar12@gmail.com](mailto:akshayasenthilkumar12@gmail.com)
-
----
-
-### 🛠️ Skills
-
-```html
-Languages:   Java | PHP | HTML | CSS | JavaScript | SQL  
-Frameworks:  Bootstrap | Android (Java)  
-Tools:       Git | GitHub | VS Code | XAMPP | MySQL  
-
-
-📈 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKSHAYAKS-03&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAYAKS-03&layout=compact&theme=radical" /> </p>
-
+<h1 align="center">Hi there, I'm Akshaya K S 👋</h1>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AKSHAYAKS_913122104?ext=contest" alt="LeetCode Stats" />
+  <a href="https://www.linkedin.com/in/akshaya-ks/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:akshayasenthilkumar12@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/AKSHAYAKS_913122104/">
+    <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white" />
+  </a>
 </p>
+
+---
+
+### 🧠 About Me
+
+- 🎓 I'm a third-year Computer Science student passionate about building useful systems
+- 🌱 Currently exploring **Full Stack Development** and **DSA**
+- 🔍 Always curious to learn and solve real-world problems
+- 💬 Ask me about **Web Dev, Java, MySQL, PHP, or problem-solving**
+
+---
+
+### 🛠 Tech Stack
+
+```bash
+Languages     :  Java, PHP, JavaScript, C
+Databases     :  MySQL
+Web           :  HTML, CSS, Bootstrap, Tailwind, AJAX
+Backend       :  PHP, Node.js basics
+Tools/Other   :  Git, XAMPP, VS Code
