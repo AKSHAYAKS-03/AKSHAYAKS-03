@@ -34,4 +34,4 @@ Tools/Other   :  Git, XAMPP, VS Code
 ---
 
 ### 📊 LeetCode 
-<img src=![LeetCode Stats](https://leetcard.jacoblin.cool/AKSHAYAKS_913122104014?theme=dark&font=JetBrains%20Mono&ext=heatmap)" alt="LeetCode Stats" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/AKSHAYAKS_913122104014?theme=dark&font=JetBrains%20Mono&ext=heatmap)
