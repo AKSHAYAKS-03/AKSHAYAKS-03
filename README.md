@@ -28,5 +28,9 @@
 Languages     :  Java, PHP, JavaScript, C
 Databases     :  MySQL
 Web           :  HTML, CSS, AJAX
-Backend       :  PHP, (React.js ,Node js basics)
+Backend       :  PHP, (React.js ,Node js) basics
 Tools/Other   :  Git, XAMPP, VS Code
+```
+---
+### 📊 LeetCode 
+**<p> <img src=![LeetCode Stats](https://leetcard.jacoblin.cool/AKSHAYAKS_913122104014?theme=dark&font=JetBrains%20Mono&ext=heatmap)" alt="LeetCode Stats" /> </p>**
