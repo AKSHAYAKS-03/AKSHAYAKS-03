@@ -47,8 +47,9 @@
 ### 📊 LeetCode 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AKSHAYAKS_913122104014?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
+### 📊 GitHub Stats 
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AKSHAYAKS-03&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHAYAKS-03&theme=tokyonight" alt="GitHub Streak" width="48%" />
 <br><br>
 
-### 📊 GitHub Stats 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAYAKS-03&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" /> </div>
